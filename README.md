@@ -14,3 +14,13 @@
         This pipeline was created in Google Colab, please update any paths in the notebooks if you wish to re-train/load saved models.
     </li>
 </ul>
+
+<h3>Datasets</h3>
+<ul>
+    <li>
+    BDD-OIA: https://twizwei.github.io/bddoia_project/
+    </li>
+    <li>
+    BDD100K: http://bair.berkeley.edu/blog/2018/05/30/bdd/
+    </li>
+</ul>
